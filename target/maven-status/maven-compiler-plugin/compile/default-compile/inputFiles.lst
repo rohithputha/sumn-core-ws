@@ -1,0 +1,17 @@
+/Users/rohith/Desktop/incubation/core-ws/src/main/java/com/sumn/corews/config/MvcConfigurations.java
+/Users/rohith/Desktop/incubation/core-ws/src/main/java/com/sumn/corews/middleware/UserRetrieve.java
+/Users/rohith/Desktop/incubation/core-ws/src/main/java/com/sumn/corews/dao/UserDAO.java
+/Users/rohith/Desktop/incubation/core-ws/src/main/java/com/sumn/corews/dao/TagsDAO.java
+/Users/rohith/Desktop/incubation/core-ws/src/main/java/com/sumn/corews/dto/BookmarkDTO.java
+/Users/rohith/Desktop/incubation/core-ws/src/main/java/com/sumn/corews/config/FirestoreConfig.java
+/Users/rohith/Desktop/incubation/core-ws/src/main/java/com/sumn/corews/controller/Bookmarks.java
+/Users/rohith/Desktop/incubation/core-ws/src/main/java/com/sumn/corews/service/TagService.java
+/Users/rohith/Desktop/incubation/core-ws/src/main/java/com/sumn/corews/dao/BookmarkDAO.java
+/Users/rohith/Desktop/incubation/core-ws/src/main/java/com/sumn/corews/config/InterceptorConfig.java
+/Users/rohith/Desktop/incubation/core-ws/src/main/java/com/sumn/corews/CoreWsApplication.java
+/Users/rohith/Desktop/incubation/core-ws/src/main/java/com/sumn/corews/dto/UserDTO.java
+/Users/rohith/Desktop/incubation/core-ws/src/main/java/com/sumn/corews/config/WebSecurity.java
+/Users/rohith/Desktop/incubation/core-ws/src/main/java/com/sumn/corews/dto/TagsDTO.java
+/Users/rohith/Desktop/incubation/core-ws/src/main/java/com/sumn/corews/controller/CurrentUser.java
+/Users/rohith/Desktop/incubation/core-ws/src/main/java/com/sumn/corews/service/BookmarkService.java
+/Users/rohith/Desktop/incubation/core-ws/src/main/java/com/sumn/corews/service/HashService.java
