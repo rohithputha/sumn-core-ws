@@ -1,5 +1,7 @@
 /Users/rohith/Desktop/incubation/core-ws/src/main/java/com/sumn/corews/config/MvcConfigurations.java
+/Users/rohith/Desktop/incubation/core-ws/src/main/java/com/sumn/corews/middleware/ApiAuthentication.java
 /Users/rohith/Desktop/incubation/core-ws/src/main/java/com/sumn/corews/middleware/UserRetrieve.java
+/Users/rohith/Desktop/incubation/core-ws/src/main/java/com/sumn/corews/config/AppConfig.java
 /Users/rohith/Desktop/incubation/core-ws/src/main/java/com/sumn/corews/dao/UserDAO.java
 /Users/rohith/Desktop/incubation/core-ws/src/main/java/com/sumn/corews/dao/TagsDAO.java
 /Users/rohith/Desktop/incubation/core-ws/src/main/java/com/sumn/corews/dto/BookmarkDTO.java
